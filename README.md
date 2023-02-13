@@ -3,6 +3,8 @@
 
 # Demo
 
+https://delegate-test.netlify.app/
+
 # requirements
 * Unity 2022.2.0f1
 
